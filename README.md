@@ -1,5 +1,5 @@
 # MAC2166
-Exercícios programa pedidos na matéria de introdução a computação (mac2166)
+Exercícios programa pedidos na matéria de introdução à ciencia da computação (mac2166)
 
 EP1-a - Conversor de base 3 para 10
 
