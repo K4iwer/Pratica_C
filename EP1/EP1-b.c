@@ -1,12 +1,3 @@
-/***********************************************************/
-/*                                                         */
-/*   Lucas Sposo Cavalari                  14591733        */
-/*   Exercicio-Programa 01B                                */
-/*   Professora: Cristina G. Fernandes                     */
-/*   Turma: 02                                             */
-/*                                                         */
-/***********************************************************/
-
 # include <stdio.h>
 int main () {
     int opcao, num, soma, res, fant, fatual, fprox, i;
