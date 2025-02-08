@@ -1,4 +1,4 @@
-# MAC2166
+# Prática de C
 Exercícios programa pedidos na matéria de introdução à ciencia da computação (mac2166)
 
 EP1-a - Conversor de base 3 para 10
